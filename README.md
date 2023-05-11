@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jademarinho
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning flutter and VR models
-- 💞️ I’m looking to collaborate on ...??
-- 📫 How to reach me: 
+- 🌱 I’m currently learning Python and VR models
+
 
 <!---
 jademarinho/jademarinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
