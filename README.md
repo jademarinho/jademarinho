@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jademarinho
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning Python and VR models
+- 🌱 I’m currently learning Python and DataViz in Power BI
 
 
 <!---
